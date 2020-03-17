@@ -1,0 +1,114 @@
+[Skybell HD] Turn on Do Not Disturb
+[Skybell HD] Turn off Do Not Disturb
+[Homeboy] Arm this camera's location
+[Homeboy] Disarm this camera's location
+[Homeboy] Arm this camera
+[Homeboy] Disarm this camera
+[Homeboy] Record video
+[Twitch] Get Top N games
+[Functions: Text] Continue the Flow if text contains
+[Functions: Text] Continue the Flow if text does not contain
+[Functions: Text] Continue the Flow if text equals
+[Functions: Text] Continue the Flow if text does not equal
+[Functions: Text] Replace text
+[Functions: Text] Extract a number from a string
+[Functions: Text] Convert text to upper case
+[Functions: Text] Convert text to lower case
+[Functions: Text] Continue the Flow if text matches a regular expression
+[Functions: Text] Extract regular expression groups
+[Functions: Text] Extract a substring from text
+[Evernote] Create a note
+[Evernote] Append to a note
+[Garageio] Open door
+[Garageio] Close door
+[August Smart Lock] Lock
+[Connect: Flow] Run the selected Flow
+[Carrier Côr] Set temperature
+[Carrier Côr] Set to home
+[Carrier Côr] Set to away
+[Carrier Côr] Resume program
+[Carrier Côr] Turn on the fan
+[Connect: Maker] Send an HTTP GET
+[Connect: Maker] Send an HTTP POST
+[Connect: Maker] Send an HTTP PUT
+[Coinbase] Get current price
+[Hue Bridge] Turn on the light
+[Hue Bridge] Turn off the light
+[Hue Bridge] Turn on to a color
+[Hue Bridge] Set brightness
+[Hue Bridge] Fade the light on
+[Hue Bridge] Fade the light off
+[Hue Bridge] Activate a scene
+[Hue Bridge] Blink my light
+[Hue Bridge] Fade on to a color
+[Weather] Generate a weather report
+[Dropbox] Upload a file
+[Dropbox] Create a text file
+[IFTTT] Run an IFTTT Applet
+[Messages] Send me a message
+[Messages] Send a message to someone else
+[Friends] Send this friend an email
+[Friends] Send this friend a push notification
+[Lutron Caséta] Activate a scene
+[Insteon] Turn Scene On
+[Insteon] Turn Scene Off
+[Traffic] Get travel time between two addresses
+[Wink] Activate a shortcut
+[Notifications] Send me a push notification
+[Logitech Harmony] Start an activity
+[Logitech Harmony] Stop an activity
+[Logitech Harmony] Turn off all activities
+[Gmail] Send an email
+[Slack] Post a message to a Slack channel
+[Slack] Post a message to a Slack user
+[Slack] Post a message to a Slack private group
+[Honeywell Wi-Fi Thermostat] Set thermostat mode
+[Honeywell Wi-Fi Thermostat] Set heating temperature
+[Honeywell Wi-Fi Thermostat] Set cooling temperature
+[Google Drive] Upload a file
+[Google Drive] Create a new text document
+[Google Drive] Append to a text document
+[Google Drive] Add row to a Google Sheets spreadsheet
+[Yahoo News] Generate news summary
+[Google Calendar] Create a new event
+[Google Calendar] Get my next event
+[Ecobee] Set temperature
+[Ecobee] Set to home
+[Ecobee] Set to away
+[Ecobee] Resume program
+[Ecobee] Turn on the fan
+[Functions: Variables] Set variable to a value
+[Functions: Variables] Increment a variable
+[Functions: Variables] Get the value of variable(s)
+[Functions: Variables] Decrement a variable
+[Functions: Variables] Delete a variable
+[Functions: Variables] Append text to a variable value
+[Box] Upload a file
+[Box] Create a text file
+[Twitter] Tweet
+[Twitter] Send a Direct Message (DM) to myself
+[Twitter] Update my profile photo
+[Twitter] Update my bio
+[Twitter] Get what is trending
+[Functions: Math] Continue flow based on comparing numbers
+[Functions: Math] Perform math operations on two values
+[Email] Send me an email
+[Tumblr] Create a new blog post
+[Mode] Change my mode to...
+[Timer] Start the timer
+[Yelp] Find restaurants near me
+[Yelp] Find happy hour near me
+[Yelp] Find restaurants that serve brunch near me
+[Nest] Set ETA
+[LIFX] Turn on the light
+[LIFX] Turn off the light
+[LIFX] Turn on to a color
+[LIFX] Set brightness
+[LIFX] Blink the light
+[LIFX] Blink the light for a duration
+[LIFX] Fade the light on
+[LIFX] Fade the light on to a color
+[LIFX] Fade the light off
+[LIFX] Toggle the light
+[LIFX] Color fade
+[LIFX] Activate a scene

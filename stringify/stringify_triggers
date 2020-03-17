@@ -1,0 +1,234 @@
+[Skybell HD] Doorbell rang
+[Skybell HD] Motion detected
+[Skybell HD] Doorbell rang (with photo)
+[Skybell HD] Motion detected (with photo)
+[Homeboy] Camera's location is armed
+[Homeboy] Camera's location is disarmed
+[Homeboy] Camera is armed
+[Homeboy] Camera disarmed
+[Homeboy] Audio alarm triggered
+[Homeboy] New video captured
+[Homeboy] Battery is low
+[Homeboy] Camera status is armed
+[Homeboy] Camera status is disarmed
+[Withings] Steps Above
+[Withings] Steps below
+[Withings] New sleep logged
+[Withings] Sleep duration above
+[Withings] Sleep duration below
+[Withings] New heart rate measurement
+[Withings] New weight measurement
+[Withings] Weight above
+[Withings] Weight below
+[Withings] New blood pressure measurement
+[Twitch] A specific user's stream goes live
+[Twitch] A specific user's stream ends
+[Twitch] A specific user's stream is live
+[Twitch] A specific user's stream is offline
+[Twitch] A new game enters Top N
+[Evernote] I create a new notebook
+[Smappee Energy Monitor] Appliance turns on
+[Smappee Energy Monitor] Appliance turns off
+[RSS Feed] New item added to the feed
+[RSS Feed] New item that matches search term, is added to the feed
+[Reddit] New post added to a subreddit
+[Reddit] New hot post in a subreddit
+[Reddit] New top post in a subreddit
+[Reddit] New post from search
+[Reddit] I create a new post
+[Reddit] I comment on a post
+[Reddit] I upvote a post
+[Reddit] I downvote a post
+[Reddit] I save a post
+[Garageio] Door opens
+[Garageio] Door closes
+[Garageio] Door is open for a duration
+[Garageio] Door is closed for a duration
+[Garageio] Open
+[Garageio] Closed
+[eBay] New post added to the search results
+[TechCrunch] New story added to a section
+[TechCrunch] New story based on search terms
+[TechCrunch] New story by a TechCrunch author
+[Date & Time] Date and time is:
+[Date & Time] Time is between:
+[Date & Time] Time is after:
+[Date & Time] Sunrise
+[Date & Time] Sunset
+[Date & Time] It is daytime
+[Date & Time] It is nighttime
+[Date & Time] Random time between (beta):
+[Jawbone UP] Steps above
+[Jawbone UP] Steps below
+[Jawbone UP] Steps goal achieved
+[Jawbone UP] Steps goal not achieved
+[Jawbone UP] Enter sleep mode
+[Jawbone UP] Exit sleep mode
+[Jawbone UP] New sleep logged
+[Jawbone UP] Sleep duration above
+[Jawbone UP] Sleep duration below
+[Jawbone UP] Sleep goal achieved
+[Jawbone UP] Enter activity mode
+[Jawbone UP] Exit activity mode
+[Jawbone UP] New workout logged
+[Jawbone UP] New meal logged
+[Jawbone UP] New mood logged
+[Jawbone UP] Awake
+[Jawbone UP] Sleeping
+[August Smart Lock] Lock locks
+[August Smart Lock] Lock unlocks
+[August Smart Lock] Locked
+[August Smart Lock] Unlocked
+[CNN] New story added to a section
+[CNN] New story based on search term
+[Connect: Flow] Start whichever Flow this is included in
+[BuzzFeed] New post added to a section
+[BuzzFeed] New post with a badge
+[BuzzFeed] New post based on search term
+[Connect: Maker] Send Stringify an HTTP GET/POST
+[Automatic] Trip finished
+[Automatic] Ignition turns on
+[Automatic] Ignition turns off
+[Automatic] Check engine light turns on
+[Automatic] Check engine light turns off
+[Automatic] Speeding Detected
+[Automatic] Hard Acceleration Detected
+[Automatic] Ignition is on
+[Automatic] Ignition is off
+[Automatic] Check engine light is on
+[Automatic] Vehicle enters an area
+[Automatic] Vehicle exits an area
+[New York Times] New article added to a section
+[New York Times] New popular article in a section
+[New York Times] New top stories in a section
+[New York Times] New story based on search terms
+[New York Times] New book added to best seller list
+[New York Times] New movie added to Critics’ Pick
+[Instagram] I post a new photo or video
+[Instagram] I post a new photo or video in an area
+[Amazon Alexa] Ask Alexa to run a flow
+[Coinbase] Price rises above
+[Coinbase] Price falls below
+[Coinbase] Price is above
+[Coinbase] Price is below
+[Weather] Temperature rises above
+[Weather] Temperature drops below
+[Weather] Weather condition changes to
+[Weather] UV index rises above
+[Weather] Weather report is generated
+[Weather] Temperature is above
+[Weather] Temperature is below
+[Weather] High temperature forecast will be above
+[Weather] Low temperature forecast will be below
+[Weather] Weather condition forecast will be
+[Weather] UV index is above
+[Dropbox] New file in my Dropbox folder
+[Dropbox] A file in my Dropbox folder is updated
+[IFTTT] IFTTT Applet runs this Flow
+[Location] I enter an area
+[Location] I leave an area
+[Location] I enter or leave an area
+[Location] I am at a location
+[Location] I am away from a location
+[Traffic] Travel time to a destination is greater than
+[Traffic] Travel time to a destination is less than
+[Gmail] I receive an email with a label
+[Honeywell Wi-Fi Thermostat] When the temperature rises above
+[Honeywell Wi-Fi Thermostat] When the temperature falls below
+[Honeywell Wi-Fi Thermostat] When the temperature is above
+[Honeywell Wi-Fi Thermostat] When the temperature is below
+[Google Drive] New file in my Google Drive folder
+[Google Drive] A file in my Google Drive folder is updated
+[Yahoo News] New story is added to a section
+[Yahoo News] New story based on search terms
+[Yahoo News] New story for a company
+[Yahoo News] New story for your sports team
+[Google Calendar] New event is added to my calendar
+[Google Calendar] Any event changes
+[Google Calendar] Any event starts
+[Rainforest EAGLE] Usage rises above
+[Rainforest EAGLE] Price rises above
+[Rainforest EAGLE] Usage falls below
+[Rainforest EAGLE] Price falls below
+[Rainforest EAGLE] Usage is above
+[Rainforest EAGLE] Price is above
+[Rainforest EAGLE] Usage is below
+[Rainforest EAGLE] Price is below
+[Rainforest EAGLE] New message received from utility
+[Foobot] Temperature rises above
+[Foobot] Temperature falls below
+[Foobot] Particulate matter rises above
+[Foobot] Particulate matter drops below
+[Foobot] Humidity rises above
+[Foobot] Humidity drops below
+[Foobot] Carbon Dioxide rises above
+[Foobot] Carbon Dioxide drops below
+[Foobot] Volatile Organic Compounds rises above
+[Foobot] Volatile Organic Compounds drops below
+[Foobot] Air Pollution rises above
+[Foobot] Air Pollution drops below
+[CNET] New post added to the feed
+[CNET] New post based on search term
+[Foursquare Swarm] I check-in at a venue
+[Fitbit] Step goal achieved
+[Fitbit] Steps goal not achieved
+[Fitbit] Steps above
+[Fitbit] Steps below
+[Fitbit] Distance goal achieved
+[Fitbit] Calories burned goal achieved
+[Fitbit] Floors climbed goal achieved
+[Fitbit] Very active minutes goals achieved
+[Fitbit] Sleep logged
+[Fitbit] Sleep duration above
+[Fitbit] Sleep duration below
+[Fitbit] Weight logged
+[Functions: Variables] When a variable changes to a value
+[Functions: Variables] A variable matches a value
+[Functions: Variables] When a variable value rises above
+[Functions: Variables] When a variable value falls below
+[Functions: Variables] A variable is above a value
+[Functions: Variables] A variable is below a value
+[Functions: Variables] When a variable changes
+[Box] New file in my Box folder
+[Box] A file in a Box folder is updated
+[Misfit] Daily goal achieved
+[Misfit] Daily goal not achieved
+[Misfit] Sleep duration above
+[Misfit] Sleep duration below
+[Misfit] New activity session logged
+[Misfit] Generate activity summary
+[Button (Scene)] When you press this button
+[Twitter] Someone tweets
+[Twitter] Someone tweets from an area
+[Twitter] Anyone tweets from an area
+[Twitter] Someone sends me a Direct Message (DM)
+[Twitter] I update my profile picture
+[Twitter] I update my bio
+[Twitter] I have a new follower
+[Twitter] I like a tweet
+[Tumblr] New post in my blog
+[Tumblr] New post on a blog you follow
+[Tumblr] I like a post
+[Tumblr] I reblog a post
+[Mode] Mode changes to...
+[Mode] My mode is...
+[Yelp] New highest rated restaurant near me
+[Yelp] New most reviewed restaurant near me
+[Google Assistant] Ask Google to run a flow
+[Nest] Home changes to Home mode
+[Nest] Home changes to Away mode
+[Nest] Home status is Home
+[Nest] Home status is Away
+[Steam] My status changes to
+[Steam] My friend's status changes to
+[Steam] My status is
+[Steam] My friend's status is
+[Steam] I start playing a specific game
+[Steam] I stop playing a specific game
+[Steam] My friend starts playing a specific game
+[Steam] My friend stops playing a specific game
+[Steam] I start playing any game
+[Steam] I stop playing any game
+[Steam] A friend starts playing any game
+[Steam] A friend stops playing any game
+[Craigslist] New post added to search results
